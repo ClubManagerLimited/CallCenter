@@ -1,4 +1,4 @@
-document.write('<div id="bottomBar">');
+//document.write('<div id="bottomBar">');
 // document.write('<hr>');
 // Centered:
 // Logo, just the logo.
@@ -11,4 +11,4 @@ document.write('<div id="bottomBar">');
 //document.write('</div>');
 
 //document.write('<div style="padding-top: 10px;">2018 Twilio</div>');
-document.write('</div>');
+//document.write('</div>');
