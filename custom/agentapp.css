@@ -21,6 +21,9 @@
     padding-top: 20px;
     text-decoration: none;
 }
+a {
+	cursor: pointer; 
+}
 a:link, a:visited {
     text-decoration: none;
 }
